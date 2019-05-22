@@ -2,9 +2,9 @@
 return array(
     'database_type' => 'mysql',
     'database_name' => 'develop',
-    'server' => '140.143.196.24',
+    'server' => '****',
     'username' => 'develop',
-    'password' => 'YKK3IE%87!NC',
+    'password' => '****',
 
     // [optional]
     'charset' => 'utf8',
