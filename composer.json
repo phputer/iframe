@@ -1,0 +1,12 @@
+{
+  "name": "vagrant/frame",
+  "description": "php framework",
+  "require": {
+    "php": ">= 5.4.0",
+    "filp/whoops": "*",
+    "symfony/var-dumper": "*",
+    "catfan/medoo": "*",
+    "illuminate/database": "5.6.*",
+    "twig/twig": "*"
+  }
+}
